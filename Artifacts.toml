@@ -1,0 +1,216 @@
+[[QD]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9db1ce279f6107cb0ac7a44634652466061583d7"
+libc = "musl"
+os = "linux"
+
+    [[QD.download]]
+    sha256 = "44daf0ad63e505bc2a6ff9c631a72e8866a580772457c5e1e8d9208c3f515445"
+    url = "https://github.com/JuliaBinaryWrappers/QD_jll.jl/releases/download/QD-v2.3.22+0/QD.v2.3.22.x86_64-linux-musl-cxx11.tar.gz"
+[[QD]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fee049de758adff075f925d26fc189fc825b73ab"
+libc = "musl"
+os = "linux"
+
+    [[QD.download]]
+    sha256 = "eab8a07cf24e603d58d37c48a9c9251605761775c83256531f1f8c49c168fb1a"
+    url = "https://github.com/JuliaBinaryWrappers/QD_jll.jl/releases/download/QD-v2.3.22+0/QD.v2.3.22.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[QD]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "afbb1d40348574ff86b1dd85c3b928d0c3538e4e"
+libc = "glibc"
+os = "linux"
+
+    [[QD.download]]
+    sha256 = "68d283ca83ff29a50bd0a3e48b3d195cdf0f66b6749ba98a907a8b665d8610d2"
+    url = "https://github.com/JuliaBinaryWrappers/QD_jll.jl/releases/download/QD-v2.3.22+0/QD.v2.3.22.i686-linux-gnu-cxx03.tar.gz"
+[[QD]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e31108f232fb09f4b894d2b07f415898b5b70d0e"
+libc = "musl"
+os = "linux"
+
+    [[QD.download]]
+    sha256 = "fb17c7351cf2a12ceafbe5aca74e46f261fb4fdb1ee9559de4cc02a63cc55bdf"
+    url = "https://github.com/JuliaBinaryWrappers/QD_jll.jl/releases/download/QD-v2.3.22+0/QD.v2.3.22.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[QD]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8322bff14ba12c0dc6644e878be3b84d1049a05e"
+os = "macos"
+
+    [[QD.download]]
+    sha256 = "1e6c6e3d36a0832e29dfdd5093e925741ae25f7de9ee0ff30351cb1c8320a289"
+    url = "https://github.com/JuliaBinaryWrappers/QD_jll.jl/releases/download/QD-v2.3.22+0/QD.v2.3.22.x86_64-apple-darwin14-cxx03.tar.gz"
+[[QD]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "daed64a0531ee6509e3312e589153335fb0d485f"
+libc = "musl"
+os = "linux"
+
+    [[QD.download]]
+    sha256 = "65f1e85cc740fff34b73a63d1cb939343ea5c3dd05f199ee39f240167ba11cc5"
+    url = "https://github.com/JuliaBinaryWrappers/QD_jll.jl/releases/download/QD-v2.3.22+0/QD.v2.3.22.x86_64-linux-musl-cxx03.tar.gz"
+[[QD]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1b4ebf0f7c877047a963c3a10867cf6704d68625"
+libc = "glibc"
+os = "linux"
+
+    [[QD.download]]
+    sha256 = "4088abe71f0abaf0f33114d02b1afe26ecccf394d475dfb9fd3c4f7a8c206659"
+    url = "https://github.com/JuliaBinaryWrappers/QD_jll.jl/releases/download/QD-v2.3.22+0/QD.v2.3.22.aarch64-linux-gnu-cxx11.tar.gz"
+[[QD]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6525aca0d54416c8ce2dd0b4223b09c8bc0448de"
+libc = "musl"
+os = "linux"
+
+    [[QD.download]]
+    sha256 = "60634e3b95d0ed456bcb552891212a939d197c41a43bfd2b1d6f128c6b5f90c9"
+    url = "https://github.com/JuliaBinaryWrappers/QD_jll.jl/releases/download/QD-v2.3.22+0/QD.v2.3.22.aarch64-linux-musl-cxx11.tar.gz"
+[[QD]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0f6b8d49e9551f82e30de178b2c04e663dc44873"
+os = "macos"
+
+    [[QD.download]]
+    sha256 = "39c59311231ccef318a448dc103cd8627b80b16824a223f15bef126ddbfd46e1"
+    url = "https://github.com/JuliaBinaryWrappers/QD_jll.jl/releases/download/QD-v2.3.22+0/QD.v2.3.22.x86_64-apple-darwin14-cxx11.tar.gz"
+[[QD]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c4302c89c7326eb87003ae7806f39de8a9218974"
+libc = "glibc"
+os = "linux"
+
+    [[QD.download]]
+    sha256 = "3fdd8059d79b30a37558b8f47382ab4c25b23b705c26adc9437bb2ffa9a681e9"
+    url = "https://github.com/JuliaBinaryWrappers/QD_jll.jl/releases/download/QD-v2.3.22+0/QD.v2.3.22.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[QD]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "168199c05dfb26d9c4e8f7fb1b8f597fc8dd40b0"
+libc = "glibc"
+os = "linux"
+
+    [[QD.download]]
+    sha256 = "20d28c0a9d50c7c8ad132a48bcf9b389f0447404cc539e2e7e55221566024ed7"
+    url = "https://github.com/JuliaBinaryWrappers/QD_jll.jl/releases/download/QD-v2.3.22+0/QD.v2.3.22.aarch64-linux-gnu-cxx03.tar.gz"
+[[QD]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c25c8de8700c4688aaa6e307e8a5ddeef45bc61e"
+libc = "glibc"
+os = "linux"
+
+    [[QD.download]]
+    sha256 = "b381fb03e48560657967f04e52df46a572ca9db9c24725bea98456180cc454b7"
+    url = "https://github.com/JuliaBinaryWrappers/QD_jll.jl/releases/download/QD-v2.3.22+0/QD.v2.3.22.x86_64-linux-gnu-cxx11.tar.gz"
+[[QD]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8bbd13d8f9ccef69945c7a52e7c645f290d54c09"
+os = "freebsd"
+
+    [[QD.download]]
+    sha256 = "7cf32c4836e13b2969c5bf2153d1b2827e45d0ba9003719e0a44d86b1c8f6564"
+    url = "https://github.com/JuliaBinaryWrappers/QD_jll.jl/releases/download/QD-v2.3.22+0/QD.v2.3.22.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
+[[QD]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b8d2e5d6acf47a5aa190a76bfaf54dc23e2a9a3f"
+libc = "musl"
+os = "linux"
+
+    [[QD.download]]
+    sha256 = "2ffd8c23511617bfcd01da1ecf38a64ba2c1b28691c43b863280510cbfd038b6"
+    url = "https://github.com/JuliaBinaryWrappers/QD_jll.jl/releases/download/QD-v2.3.22+0/QD.v2.3.22.i686-linux-musl-cxx03.tar.gz"
+[[QD]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a71fbac7c26806170a13192f43cc6f4a101fe26c"
+libc = "glibc"
+os = "linux"
+
+    [[QD.download]]
+    sha256 = "32397ed957341f3e9340d75d9971ee9109376f6e23d2a9ccbeb38bfedd76ce85"
+    url = "https://github.com/JuliaBinaryWrappers/QD_jll.jl/releases/download/QD-v2.3.22+0/QD.v2.3.22.i686-linux-gnu-cxx11.tar.gz"
+[[QD]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "150f0ceca06ec83fc40139b0a13d05bb12fba39f"
+libc = "musl"
+os = "linux"
+
+    [[QD.download]]
+    sha256 = "2c4c9cbad6e949d6c0a2aaf5c28e1d22daf4b1f04653580c7d83fe6e06bf2a6d"
+    url = "https://github.com/JuliaBinaryWrappers/QD_jll.jl/releases/download/QD-v2.3.22+0/QD.v2.3.22.i686-linux-musl-cxx11.tar.gz"
+[[QD]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "28f178b65e732b079f9d1bc52e9f460e4dad033b"
+libc = "glibc"
+os = "linux"
+
+    [[QD.download]]
+    sha256 = "f6f972fac8ab52b116fbc66f2ed7b07c154c4daf9b1753ae6094a3839e0cafb5"
+    url = "https://github.com/JuliaBinaryWrappers/QD_jll.jl/releases/download/QD-v2.3.22+0/QD.v2.3.22.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[QD]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "be0c503f88124592ce461fbd7e11d64db2be0dea"
+libc = "musl"
+os = "linux"
+
+    [[QD.download]]
+    sha256 = "0d6aa7525fdba53d4a16571554bc5abb953a6e8ccb5b503c08bd55f70c0cb292"
+    url = "https://github.com/JuliaBinaryWrappers/QD_jll.jl/releases/download/QD-v2.3.22+0/QD.v2.3.22.aarch64-linux-musl-cxx03.tar.gz"
+[[QD]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1e9ec0ce4d010ea8e74425ee886ebb64c4866ea6"
+libc = "glibc"
+os = "linux"
+
+    [[QD.download]]
+    sha256 = "baf2b87f693ea6c7525ac9941e6ba8b8cf6a125abb3955761ceb0f4a2b9bbe97"
+    url = "https://github.com/JuliaBinaryWrappers/QD_jll.jl/releases/download/QD-v2.3.22+0/QD.v2.3.22.x86_64-linux-gnu-cxx03.tar.gz"
+[[QD]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ee9385f7d51d4bc1ad5af084bd6fb93bd1ff7692"
+libc = "glibc"
+os = "linux"
+
+    [[QD.download]]
+    sha256 = "2bcc575286d0c47f92f774b642c1d80bf819a21d48b4e9a323b7590c75ec9cbf"
+    url = "https://github.com/JuliaBinaryWrappers/QD_jll.jl/releases/download/QD-v2.3.22+0/QD.v2.3.22.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[QD]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0504ef6dd050a26699980c8b004cc0b530491ea5"
+os = "freebsd"
+
+    [[QD.download]]
+    sha256 = "1bcaca99bc6b970b3a58d72f3540c7c77a02da7e3ea99135d4e0692649409daa"
+    url = "https://github.com/JuliaBinaryWrappers/QD_jll.jl/releases/download/QD-v2.3.22+0/QD.v2.3.22.x86_64-unknown-freebsd11.1-cxx03.tar.gz"
+[[QD]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f37e95b274a12a2eda03462adf4115c8d12398a7"
+libc = "glibc"
+os = "linux"
+
+    [[QD.download]]
+    sha256 = "21242dcb9e6e2a1b37d8948dabbc1d5866ef6600bfc47573857b98fbef1f0615"
+    url = "https://github.com/JuliaBinaryWrappers/QD_jll.jl/releases/download/QD-v2.3.22+0/QD.v2.3.22.armv7l-linux-gnueabihf-cxx11.tar.gz"
